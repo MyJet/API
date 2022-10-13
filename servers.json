@@ -2,6 +2,7 @@
   {
     "type": "cisco",
     "server": "sv31.fnsrv.net",
+    "country": "canada",
     "port": "1397",
     "username": "max",
     "password": "1010"
