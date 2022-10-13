@@ -1,6 +1,7 @@
 [
   {
-    "server": "ip",
+    "server": "sv31.fnsrv.net",
+    "port": "1397",
     "username": "max",
     "password": "1010",
     "type": "cisco"
